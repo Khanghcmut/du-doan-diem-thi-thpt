@@ -1,5 +1,6 @@
 # du-doan-diem-thi-thpt
-<img src="https://github.com/Khanghcmut/testweb/blob/main/firstwebgithub/logo-bach-khoa.jpg" height="50px" width="50px" alt="logotrường Đại học Bách Khoa Thành phố Hồ Chí Minh" align="left" ></img><br><br>
+<img src="https://github.com/Khanghcmut/testweb/blob/main/firstwebgithub/logo-bach-khoa.jpg" height="50px" width="50px" alt="logotrường Đại học Bách Khoa Thành phố Hồ Chí Minh" align="left" ></img>
+<img src="https://github.com/Khanghcmut/testweb/blob/main/firstwebgithub/logo-bach-khoa.jpg" height="50px" width="50px" alt="logotrường Đại học Bách Khoa Thành phố Hồ Chí Minh" align="right" ></img><br><br>
 + Code được viết bằng python để dự đoán điểm chuẩn trường Đại học Bách Khoa Thành phố Hồ Chí Minh năm 2023.
 + Folder này bao gồm dữ liệu hơn 2000 thí sinh vào từng năm 2021 và 2023 chia làm 2 file thpt_traing_df và thpt_valid_df
 và maincode để chạy và dự đoán cũng như trực quan hoá dữ liệu được chạy trên jupiter notebook.
