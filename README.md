@@ -1,4 +1,4 @@
-# du-doan-diem-thi-thpt
+# Dự đoán điểm chuẩn đhbk ngành vật lý kỹ thuật
 <img src="https://github.com/Khanghcmut/testweb/blob/main/firstwebgithub/logo-bach-khoa.jpg" height="50px" width="50px" alt="logotrường Đại học Bách Khoa Thành phố Hồ Chí Minh" align="left" ></img>
 <img src="https://github.com/Khanghcmut/testweb/blob/main/firstwebgithub/logo-bach-khoa.jpg" height="50px" width="50px" alt="logotrường Đại học Bách Khoa Thành phố Hồ Chí Minh" align="right" ></img><br><br>
 + Code được viết bằng python để dự đoán điểm chuẩn trường Đại học Bách Khoa Thành phố Hồ Chí Minh năm 2023.
