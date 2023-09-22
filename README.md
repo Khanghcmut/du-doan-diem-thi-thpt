@@ -10,4 +10,4 @@ và maincode để chạy và dự đoán cũng như trực quan hoá dữ liệ
   <p align="right">Xin cảm ơn </p>
   <p align="right">Phan Hoàng Khang</p>
   <br>
-<p align="center"><img src="https://github.com/Khanghcmut/testweb/blob/main/firstwebgithub/logo-bach-khoa.jpg" height="100px" width="100px" alt="logotrường Đại học Bách Khoa Thành phố Hồ Chí Minh"  ></img> </p>
+<div align="center"><img src="https://github.com/Khanghcmut/testweb/blob/main/firstwebgithub/logo-bach-khoa.jpg" height="100px" width="100px" alt="logotrường Đại học Bách Khoa Thành phố Hồ Chí Minh"  ></img> </div>
